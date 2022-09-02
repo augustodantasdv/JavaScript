@@ -1,0 +1,45 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    width: 650px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0.363);
+    font-size: 23px;
+}
+select#flista{
+    width: 200px;
+    font-size: 20px;
+}
+
+#button{
+    font-size: 20px;
+}
+
+#fnum{
+    font-size: 20px;
+}
+
+#buttonFin{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
